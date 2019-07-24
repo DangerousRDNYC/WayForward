@@ -1,0 +1,969 @@
+﻿O*NET-SOC Code,Adj Code,Code,Title,Job Zone,Date,Domain Source
+111011.0000,111011,11,Chief Executives,5,Jul-14,Analyst
+111011.0300,111011,11,Chief Sustainability Officers,5,Jul-13,Analyst
+111021.0000,111021,11,General and Operations Managers,4,Jul-15,Analyst
+111031.0000,111031,11,Legislators,4,Jun-08,Analyst
+112011.0000,112011,11,Advertising and Promotions Managers,4,Aug-18,Analyst
+112021.0000,112021,11,Marketing Managers,4,Jul-15,Analyst
+112022.0000,112022,11,Sales Managers,4,Jul-16,Analyst
+112031.0000,112031,11,Public Relations and Fundraising Managers,4,Jul-17,Analyst
+113011.0000,113011,11,Administrative Services Managers,3,Jul-17,Analyst
+113021.0000,113021,11,Computer and Information Systems Managers,4,Jul-16,Analyst
+113031.0100,113031,11,Treasurers and Controllers,5,Jul-12,Analyst
+113031.0200,113031,11,"Financial Managers, Branch or Department",4,Jul-14,Analyst
+113051.0000,113051,11,Industrial Production Managers,4,Jul-13,Analyst
+113051.0100,113051,11,Quality Control Systems Managers,4,Jul-12,Analyst
+113051.0200,113051,11,Geothermal Production Managers,3,Jul-11,Analyst
+113051.0300,113051,11,Biofuels Production Managers,4,Jul-16,Analyst
+113051.0400,113051,11,Biomass Power Plant Managers,4,Jul-12,Analyst
+113051.0600,113051,11,Hydroelectric Production Managers,3,Jul-16,Analyst
+113061.0000,113061,11,Purchasing Managers,4,Aug-18,Analyst
+113071.0100,113071,11,Transportation Managers,4,Jul-14,Analyst
+113071.0200,113071,11,Storage and Distribution Managers,4,Jul-17,Analyst
+113071.0300,113071,11,Logistics Managers,4,Jul-17,Analyst
+113111.0000,113111,11,Compensation and Benefits Managers,4,Jul-17,Analyst
+113121.0000,113121,11,Human Resources Managers,4,Aug-18,Analyst
+113131.0000,113131,11,Training and Development Managers,4,Jul-17,Analyst
+119013.0100,119013,11,Nursery and Greenhouse Managers,3,Jun-07,Analyst
+119013.0200,119013,11,Farm and Ranch Managers,4,Jul-14,Analyst
+119013.0300,119013,11,Aquacultural Managers,4,Jul-16,Analyst
+119021.0000,119021,11,Construction Managers,4,Jul-13,Analyst
+119031.0000,119031,11,"Education Administrators, Preschool and Childcare Center/Program",4,Aug-18,Analyst
+119032.0000,119032,11,"Education Administrators, Elementary and Secondary School",5,Aug-18,Analyst
+119033.0000,119033,11,"Education Administrators, Postsecondary",5,Aug-18,Analyst
+119039.0100,119039,11,Distance Learning Coordinators,5,Jul-13,Analyst
+119039.0200,119039,11,Fitness and Wellness Coordinators,4,Jul-15,Analyst
+119041.0000,119041,11,Architectural and Engineering Managers,5,Jul-12,Analyst
+119041.0100,119041,11,Biofuels/Biodiesel Technology and Product Development Managers,4,Jul-14,Analyst
+119051.0000,119051,11,Food Service Managers,2,Jul-17,Analyst
+119061.0000,119061,11,Funeral Service Managers,3,Jul-14,Analyst
+119071.0000,119071,11,Gaming Managers,3,Jul-14,Analyst
+119081.0000,119081,11,Lodging Managers,4,Jul-17,Analyst
+119111.0000,119111,11,Medical and Health Services Managers,5,Jul-16,Analyst
+119121.0000,119121,11,Natural Sciences Managers,5,Jul-14,Analyst
+119121.0100,119121,11,Clinical Research Coordinators,4,Jul-11,Analyst
+119121.0200,119121,11,Water Resource Specialists,4,Jul-12,Analyst
+119131.0000,119131,11,Postmasters and Mail Superintendents,2,Jul-16,Analyst
+119141.0000,119141,11,"Property, Real Estate, and Community Association Managers",4,Jul-13,Analyst
+119151.0000,119151,11,Social and Community Service Managers,4,Aug-18,Analyst
+119161.0000,119161,11,Emergency Management Directors,4,Jul-17,Analyst
+119199.0100,119199,11,Regulatory Affairs Managers,4,Jun-09,Analyst
+119199.0200,119199,11,Compliance Managers,4,Jul-12,Analyst
+119199.0300,119199,11,Investment Fund Managers,5,Jul-14,Analyst
+119199.0400,119199,11,Supply Chain Managers,4,Jul-17,Analyst
+119199.0700,119199,11,Security Managers,4,Jul-13,Analyst
+119199.0800,119199,11,Loss Prevention Managers,4,Jul-12,Analyst
+119199.0900,119199,11,Wind Energy Operations Managers,4,Jul-16,Analyst
+119199.1000,119199,11,Wind Energy Project Managers,4,Jul-16,Analyst
+119199.1100,119199,11,Brownfield Redevelopment Specialists and Site Managers,4,Jul-13,Analyst
+131011.0000,131011,13,"Agents and Business Managers of Artists, Performers, and Athletes",4,Jun-07,Analyst
+131021.0000,131021,13,"Buyers and Purchasing Agents, Farm Products",4,Jul-13,Analyst
+131022.0000,131022,13,"Wholesale and Retail Buyers, Except Farm Products",3,Jul-15,Analyst
+131023.0000,131023,13,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",4,Jul-11,Analyst
+131031.0100,131031,13,"Claims Examiners, Property and Casualty Insurance",4,Jun-10,Analyst
+131031.0200,131031,13,"Insurance Adjusters, Examiners, and Investigators",3,Jun-09,Analyst
+131032.0000,131032,13,"Insurance Appraisers, Auto Damage",3,Jul-16,Analyst
+131041.0100,131041,13,Environmental Compliance Inspectors,4,Jul-14,Analyst
+131041.0200,131041,13,Licensing Examiners and Inspectors,3,Jul-15,Analyst
+131041.0300,131041,13,Equal Opportunity Representatives and Officers,4,Jul-15,Analyst
+131041.0400,131041,13,Government Property Inspectors and Investigators,3,Jul-16,Analyst
+131041.0600,131041,13,Coroners,3,Jul-12,Analyst
+131041.0700,131041,13,Regulatory Affairs Specialists,4,Jun-09,Analyst
+131051.0000,131051,13,Cost Estimators,4,Jul-16,Analyst
+131071.0000,131071,13,Human Resources Specialists,4,Jul-12,Analyst
+131074.0000,131074,13,Farm Labor Contractors,2,Jun-08,Analyst
+131075.0000,131075,13,Labor Relations Specialists,4,Jul-15,Analyst
+131081.0000,131081,13,Logisticians,4,Jul-16,Analyst
+131081.0100,131081,13,Logistics Engineers,4,Jul-11,Analyst
+131081.0200,131081,13,Logistics Analysts,4,Jul-11,Analyst
+131111.0000,131111,13,Management Analysts,5,Jul-16,Analyst
+131121.0000,131121,13,"Meeting, Convention, and Event Planners",4,Jul-16,Analyst
+131131.0000,131131,13,Fundraisers,4,Jul-14,Analyst
+131141.0000,131141,13,"Compensation, Benefits, and Job Analysis Specialists",4,Jul-17,Analyst
+131151.0000,131151,13,Training and Development Specialists,4,Jul-14,Analyst
+131161.0000,131161,13,Market Research Analysts and Marketing Specialists,4,Aug-18,Analyst
+131199.0100,131199,13,Energy Auditors,3,Jul-16,Analyst
+131199.0200,131199,13,Security Management Specialists,4,Jul-13,Analyst
+131199.0300,131199,13,Customs Brokers,3,Jul-17,Analyst
+131199.0400,131199,13,Business Continuity Planners,4,Aug-18,Analyst
+131199.0500,131199,13,Sustainability Specialists,4,Jul-13,Analyst
+131199.0600,131199,13,Online Merchants,4,Jul-14,Analyst
+132011.0100,132011,13,Accountants,4,Aug-18,Analyst
+132011.0200,132011,13,Auditors,4,Jul-16,Analyst
+132021.0100,132021,13,Assessors,3,Jul-11,Analyst
+132021.0200,132021,13,"Appraisers, Real Estate",4,Jul-14,Analyst
+132031.0000,132031,13,Budget Analysts,4,Jul-16,Analyst
+132041.0000,132041,13,Credit Analysts,4,Jun-09,Analyst
+132051.0000,132051,13,Financial Analysts,4,Jul-16,Analyst
+132052.0000,132052,13,Personal Financial Advisors,4,Jul-12,Analyst
+132053.0000,132053,13,Insurance Underwriters,4,Aug-18,Analyst
+132061.0000,132061,13,Financial Examiners,4,Jul-12,Analyst
+132071.0000,132071,13,Credit Counselors,4,Jul-13,Analyst
+132071.0100,132071,13,Loan Counselors,4,Jul-16,Analyst
+132072.0000,132072,13,Loan Officers,3,Jul-11,Analyst
+132081.0000,132081,13,"Tax Examiners and Collectors, and Revenue Agents",3,Jul-11,Analyst
+132082.0000,132082,13,Tax Preparers,3,Jul-13,Analyst
+132099.0100,132099,13,Financial Quantitative Analysts,5,Jul-17,Analyst
+132099.0200,132099,13,Risk Management Specialists,4,Aug-18,Analyst
+132099.0400,132099,13,"Fraud Examiners, Investigators and Analysts",4,Jul-17,Analyst
+151111.0000,151111,15,Computer and Information Research Scientists,5,Jun-08,Analyst
+151121.0000,151121,15,Computer Systems Analysts,4,Jul-17,Analyst
+151121.0100,151121,15,Informatics Nurse Specialists,4,Jul-13,Analyst
+151122.0000,151122,15,Information Security Analysts,4,Aug-18,Analyst
+151131.0000,151131,15,Computer Programmers,4,Aug-18,Analyst
+151132.0000,151132,15,"Software Developers, Applications",4,Jul-16,Analyst
+151133.0000,151133,15,"Software Developers, Systems Software",4,Jul-13,Analyst
+151134.0000,151134,15,Web Developers,3,Jul-17,Analyst
+151141.0000,151141,15,Database Administrators,4,Jul-16,Analyst
+151142.0000,151142,15,Network and Computer Systems Administrators,4,Jul-17,Analyst
+151143.0000,151143,15,Computer Network Architects,4,Aug-18,Analyst
+151143.0100,151143,15,Telecommunications Engineering Specialists,3,Jul-13,Analyst
+151151.0000,151151,15,Computer User Support Specialists,3,Jul-17,Analyst
+151152.0000,151152,15,Computer Network Support Specialists,4,Jul-14,Analyst
+151199.0100,151199,15,Software Quality Assurance Engineers and Testers,4,Jul-16,Analyst
+151199.0200,151199,15,Computer Systems Engineers/Architects,4,Aug-18,Analyst
+151199.0300,151199,15,Web Administrators,4,Aug-18,Analyst
+151199.0400,151199,15,Geospatial Information Scientists and Technologists,4,Jul-16,Analyst
+151199.0500,151199,15,Geographic Information Systems Technicians,4,Jul-11,Analyst
+151199.0600,151199,15,Database Architects,4,Jul-15,Analyst
+151199.0700,151199,15,Data Warehousing Specialists,4,Aug-18,Analyst
+151199.0800,151199,15,Business Intelligence Analysts,4,Jul-12,Analyst
+151199.0900,151199,15,Information Technology Project Managers,4,Jul-12,Analyst
+151199.1000,151199,15,Search Marketing Strategists,4,Jul-14,Analyst
+151199.1100,151199,15,Video Game Designers,4,Jul-12,Analyst
+151199.1200,151199,15,Document Management Specialists,4,Jul-13,Analyst
+152011.0000,152011,15,Actuaries,4,Jul-17,Analyst
+152021.0000,152021,15,Mathematicians,5,Jul-12,Analyst
+152031.0000,152031,15,Operations Research Analysts,5,Jul-17,Analyst
+152041.0000,152041,15,Statisticians,5,Jul-12,Analyst
+152041.0100,152041,15,Biostatisticians,5,Jul-14,Analyst
+152041.0200,152041,15,Clinical Data Managers,4,Jul-16,Analyst
+152091.0000,152091,15,Mathematical Technicians,4,Jun-08,Analyst
+171011.0000,171011,17,"Architects, Except Landscape and Naval",4,Jul-14,Analyst
+171012.0000,171012,17,Landscape Architects,4,Jul-13,Analyst
+171021.0000,171021,17,Cartographers and Photogrammetrists,4,Aug-18,Analyst
+171022.0000,171022,17,Surveyors,4,Jul-17,Analyst
+171022.0100,171022,17,Geodetic Surveyors,4,Jul-16,Analyst
+172011.0000,172011,17,Aerospace Engineers,4,Jul-15,Analyst
+172021.0000,172021,17,Agricultural Engineers,4,Jul-17,Analyst
+172031.0000,172031,17,Biomedical Engineers,4,Jul-17,Analyst
+172041.0000,172041,17,Chemical Engineers,4,Jul-17,Analyst
+172051.0000,172051,17,Civil Engineers,4,Jul-14,Analyst
+172051.0100,172051,17,Transportation Engineers,4,Jul-17,Analyst
+172061.0000,172061,17,Computer Hardware Engineers,4,Jul-13,Analyst
+172071.0000,172071,17,Electrical Engineers,4,Jul-15,Analyst
+172072.0000,172072,17,"Electronics Engineers, Except Computer",4,Jul-14,Analyst
+172072.0100,172072,17,Radio Frequency Identification Device Specialists,4,Jul-15,Analyst
+172081.0000,172081,17,Environmental Engineers,5,Jul-12,Analyst
+172081.0100,172081,17,Water/Wastewater Engineers,4,Jul-12,Analyst
+172111.0100,172111,17,Industrial Safety and Health Engineers,4,Aug-18,Analyst
+172111.0200,172111,17,Fire-Prevention and Protection Engineers,4,Jul-13,Analyst
+172111.0300,172111,17,Product Safety Engineers,4,Jul-16,Analyst
+172112.0000,172112,17,Industrial Engineers,4,Jun-10,Analyst
+172112.0100,172112,17,Human Factors Engineers and Ergonomists,5,Jul-12,Analyst
+172121.0100,172121,17,Marine Engineers,4,Jul-16,Analyst
+172121.0200,172121,17,Marine Architects,4,Jul-15,Analyst
+172131.0000,172131,17,Materials Engineers,4,Jul-12,Analyst
+172141.0000,172141,17,Mechanical Engineers,4,Jul-15,Analyst
+172141.0100,172141,17,Fuel Cell Engineers,5,Jul-14,Analyst
+172141.0200,172141,17,Automotive Engineers,4,Jul-14,Analyst
+172151.0000,172151,17,"Mining and Geological Engineers, Including Mining Safety Engineers",4,Aug-18,Analyst
+172161.0000,172161,17,Nuclear Engineers,4,Jul-17,Analyst
+172171.0000,172171,17,Petroleum Engineers,4,Jun-10,Analyst
+172199.0100,172199,17,Biochemical Engineers,4,Jul-16,Analyst
+172199.0200,172199,17,Validation Engineers,4,Aug-18,Analyst
+172199.0300,172199,17,Energy Engineers,4,Jul-16,Analyst
+172199.0400,172199,17,Manufacturing Engineers,4,Jul-17,Analyst
+172199.0500,172199,17,Mechatronics Engineers,4,Jul-12,Analyst
+172199.0600,172199,17,Microsystems Engineers,5,Jul-16,Analyst
+172199.0700,172199,17,Photonics Engineers,4,Aug-18,Analyst
+172199.0800,172199,17,Robotics Engineers,4,Aug-18,Analyst
+172199.0900,172199,17,Nanosystems Engineers,5,Jul-15,Analyst
+172199.1000,172199,17,Wind Energy Engineers,4,Jul-12,Analyst
+172199.1100,172199,17,Solar Energy Systems Engineers,4,Jul-15,Analyst
+173011.0100,173011,17,Architectural Drafters,4,Jun-10,Analyst
+173011.0200,173011,17,Civil Drafters,3,Aug-18,Analyst
+173012.0100,173012,17,Electronic Drafters,3,Jul-12,Analyst
+173012.0200,173012,17,Electrical Drafters,3,Jul-14,Analyst
+173013.0000,173013,17,Mechanical Drafters,3,Jul-17,Analyst
+173021.0000,173021,17,Aerospace Engineering and Operations Technicians,4,Dec-06,Analyst
+173022.0000,173022,17,Civil Engineering Technicians,3,Jul-17,Analyst
+173023.0100,173023,17,Electronics Engineering Technicians,3,Jul-13,Analyst
+173023.0300,173023,17,Electrical Engineering Technicians,3,Jul-14,Analyst
+173024.0000,173024,17,Electro-Mechanical Technicians,3,Jul-15,Analyst
+173024.0100,173024,17,Robotics Technicians,3,Aug-18,Analyst
+173025.0000,173025,17,Environmental Engineering Technicians,4,Jul-14,Analyst
+173026.0000,173026,17,Industrial Engineering Technicians,3,Jul-14,Analyst
+173027.0000,173027,17,Mechanical Engineering Technicians,3,Aug-18,Analyst
+173027.0100,173027,17,Automotive Engineering Technicians,3,Jul-16,Analyst
+173029.0100,173029,17,Non-Destructive Testing Specialists,2,Jul-16,Analyst
+173029.0200,173029,17,Electrical Engineering Technologists,4,Jul-12,Analyst
+173029.0300,173029,17,Electromechanical Engineering Technologists,4,Jul-12,Analyst
+173029.0400,173029,17,Electronics Engineering Technologists,3,Aug-18,Analyst
+173029.0500,173029,17,Industrial Engineering Technologists,4,Jul-12,Analyst
+173029.0600,173029,17,Manufacturing Engineering Technologists,4,Jul-17,Analyst
+173029.0700,173029,17,Mechanical Engineering Technologists,3,Jul-12,Analyst
+173029.0800,173029,17,Photonics Technicians,3,Jul-13,Analyst
+173029.0900,173029,17,Manufacturing Production Technicians,3,Jul-17,Analyst
+173029.1100,173029,17,Nanotechnology Engineering Technologists,4,Jul-17,Analyst
+173029.1200,173029,17,Nanotechnology Engineering Technicians,3,Jul-16,Analyst
+173031.0100,173031,17,Surveying Technicians,3,Jul-17,Analyst
+173031.0200,173031,17,Mapping Technicians,3,Jul-14,Analyst
+191011.0000,191011,19,Animal Scientists,5,Jul-16,Analyst
+191012.0000,191012,19,Food Scientists and Technologists,4,Jun-10,Analyst
+191013.0000,191013,19,Soil and Plant Scientists,5,Jul-14,Analyst
+191020.0100,191020,19,Biologists,5,Aug-18,Analyst
+191021.0000,191021,19,Biochemists and Biophysicists,5,Jul-12,Analyst
+191022.0000,191022,19,Microbiologists,5,Jul-17,Analyst
+191023.0000,191023,19,Zoologists and Wildlife Biologists,5,Aug-18,Analyst
+191029.0100,191029,19,Bioinformatics Scientists,5,Jul-12,Analyst
+191029.0200,191029,19,Molecular and Cellular Biologists,5,Jul-16,Analyst
+191029.0300,191029,19,Geneticists,5,Jul-16,Analyst
+191031.0100,191031,19,Soil and Water Conservationists,4,Jul-11,Analyst
+191031.0200,191031,19,Range Managers,4,Dec-05,Analyst
+191031.0300,191031,19,Park Naturalists,4,Jul-16,Analyst
+191032.0000,191032,19,Foresters,4,Jul-15,Analyst
+191041.0000,191041,19,Epidemiologists,5,Jul-16,Analyst
+191042.0000,191042,19,"Medical Scientists, Except Epidemiologists",5,Jul-12,Analyst
+192011.0000,192011,19,Astronomers,5,Jul-11,Analyst
+192012.0000,192012,19,Physicists,5,Dec-06,Analyst
+192021.0000,192021,19,Atmospheric and Space Scientists,4,Jul-12,Analyst
+192031.0000,192031,19,Chemists,4,Jul-13,Analyst
+192032.0000,192032,19,Materials Scientists,5,Jul-12,Analyst
+192041.0000,192041,19,"Environmental Scientists and Specialists, Including Health",4,Jul-13,Analyst
+192041.0100,192041,19,Climate Change Analysts,5,Jul-13,Analyst
+192041.0200,192041,19,Environmental Restoration Planners,5,Jul-13,Analyst
+192041.0300,192041,19,Industrial Ecologists,5,Jul-15,Analyst
+192042.0000,192042,19,"Geoscientists, Except Hydrologists and Geographers",4,Jul-13,Analyst
+192043.0000,192043,19,Hydrologists,5,Aug-18,Analyst
+192099.0100,192099,19,Remote Sensing Scientists and Technologists,5,Jul-16,Analyst
+193011.0000,193011,19,Economists,5,Jul-11,Analyst
+193011.0100,193011,19,Environmental Economists,5,Jul-12,Analyst
+193022.0000,193022,19,Survey Researchers,5,Jul-11,Analyst
+193031.0100,193031,19,School Psychologists,5,Jun-10,Analyst
+193031.0200,193031,19,Clinical Psychologists,5,Jul-12,Analyst
+193031.0300,193031,19,Counseling Psychologists,5,Jul-12,Analyst
+193032.0000,193032,19,Industrial-Organizational Psychologists,5,Jul-12,Analyst
+193039.0100,193039,19,Neuropsychologists and Clinical Neuropsychologists,5,Jul-17,Analyst
+193041.0000,193041,19,Sociologists,5,Jul-16,Analyst
+193051.0000,193051,19,Urban and Regional Planners,5,Jul-14,Analyst
+193091.0100,193091,19,Anthropologists,5,Aug-18,Analyst
+193091.0200,193091,19,Archeologists,5,Jul-12,Analyst
+193092.0000,193092,19,Geographers,5,Jul-16,Analyst
+193093.0000,193093,19,Historians,5,Jul-15,Analyst
+193094.0000,193094,19,Political Scientists,5,Jul-17,Analyst
+193099.0100,193099,19,Transportation Planners,4,Jul-17,Analyst
+194011.0100,194011,19,Agricultural Technicians,3,Jul-14,Analyst
+194011.0200,194011,19,Food Science Technicians,3,Jul-13,Analyst
+194021.0000,194021,19,Biological Technicians,4,Jul-17,Analyst
+194031.0000,194031,19,Chemical Technicians,3,Jul-14,Analyst
+194041.0100,194041,19,Geophysical Data Technicians,4,Dec-06,Analyst
+194041.0200,194041,19,Geological Sample Test Technicians,4,Jul-15,Analyst
+194051.0100,194051,19,Nuclear Equipment Operation Technicians,3,Jul-17,Analyst
+194051.0200,194051,19,Nuclear Monitoring Technicians,3,Jul-14,Analyst
+194061.0000,194061,19,Social Science Research Assistants,4,Jun-07,Analyst
+194061.0100,194061,19,City and Regional Planning Aides,4,Jun-08,Analyst
+194091.0000,194091,19,"Environmental Science and Protection Technicians, Including Health",4,Jul-16,Analyst
+194092.0000,194092,19,Forensic Science Technicians,4,Jul-13,Analyst
+194093.0000,194093,19,Forest and Conservation Technicians,3,Aug-18,Analyst
+194099.0100,194099,19,Quality Control Analysts,3,Jul-12,Analyst
+194099.0200,194099,19,Precision Agriculture Technicians,4,Jul-16,Analyst
+194099.0300,194099,19,Remote Sensing Technicians,4,Jul-12,Analyst
+211011.0000,211011,21,Substance Abuse and Behavioral Disorder Counselors,5,Jul-14,Analyst
+211012.0000,211012,21,"Educational, Guidance, School, and Vocational Counselors",5,Aug-18,Analyst
+211013.0000,211013,21,Marriage and Family Therapists,5,Jul-12,Analyst
+211014.0000,211014,21,Mental Health Counselors,5,Jul-13,Analyst
+211015.0000,211015,21,Rehabilitation Counselors,5,Jul-12,Analyst
+211021.0000,211021,21,"Child, Family, and School Social Workers",4,Aug-18,Analyst
+211022.0000,211022,21,Healthcare Social Workers,5,Jul-14,Analyst
+211023.0000,211023,21,Mental Health and Substance Abuse Social Workers,5,Jul-13,Analyst
+211091.0000,211091,21,Health Educators,4,Jul-12,Analyst
+211092.0000,211092,21,Probation Officers and Correctional Treatment Specialists,4,Jul-11,Analyst
+211093.0000,211093,21,Social and Human Service Assistants,4,Jul-13,Analyst
+211094.0000,211094,21,Community Health Workers,4,Jul-13,Analyst
+212011.0000,212011,21,Clergy,5,Jul-15,Analyst
+212021.0000,212021,21,"Directors, Religious Activities and Education",4,Jul-15,Analyst
+231011.0000,231011,23,Lawyers,5,Jul-16,Analyst
+231012.0000,231012,23,Judicial Law Clerks,5,Jul-13,Analyst
+231021.0000,231021,23,"Administrative Law Judges, Adjudicators, and Hearing Officers",5,Jul-11,Analyst
+231022.0000,231022,23,"Arbitrators, Mediators, and Conciliators",5,Jul-12,Analyst
+231023.0000,231023,23,"Judges, Magistrate Judges, and Magistrates",5,Jul-11,Analyst
+232011.0000,232011,23,Paralegals and Legal Assistants,3,Aug-18,Analyst
+232091.0000,232091,23,Court Reporters,3,Jul-11,Analyst
+232093.0000,232093,23,"Title Examiners, Abstractors, and Searchers",2,Jul-17,Analyst
+251011.0000,251011,25,"Business Teachers, Postsecondary",5,Jul-11,Analyst
+251021.0000,251021,25,"Computer Science Teachers, Postsecondary",5,Jul-11,Analyst
+251022.0000,251022,25,"Mathematical Science Teachers, Postsecondary",5,Jul-11,Analyst
+251031.0000,251031,25,"Architecture Teachers, Postsecondary",5,Jul-11,Analyst
+251032.0000,251032,25,"Engineering Teachers, Postsecondary",5,Jul-11,Analyst
+251041.0000,251041,25,"Agricultural Sciences Teachers, Postsecondary",5,Jul-11,Analyst
+251042.0000,251042,25,"Biological Science Teachers, Postsecondary",5,Jul-11,Analyst
+251043.0000,251043,25,"Forestry and Conservation Science Teachers, Postsecondary",5,Jul-11,Analyst
+251051.0000,251051,25,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",5,Jul-11,Analyst
+251052.0000,251052,25,"Chemistry Teachers, Postsecondary",5,Jul-11,Analyst
+251053.0000,251053,25,"Environmental Science Teachers, Postsecondary",5,Jul-11,Analyst
+251054.0000,251054,25,"Physics Teachers, Postsecondary",5,Jul-11,Analyst
+251061.0000,251061,25,"Anthropology and Archeology Teachers, Postsecondary",5,Jul-11,Analyst
+251062.0000,251062,25,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",5,Jul-11,Analyst
+251063.0000,251063,25,"Economics Teachers, Postsecondary",5,Jul-11,Analyst
+251064.0000,251064,25,"Geography Teachers, Postsecondary",5,Jul-11,Analyst
+251065.0000,251065,25,"Political Science Teachers, Postsecondary",5,Jul-11,Analyst
+251066.0000,251066,25,"Psychology Teachers, Postsecondary",5,Jul-11,Analyst
+251067.0000,251067,25,"Sociology Teachers, Postsecondary",5,Jul-11,Analyst
+251071.0000,251071,25,"Health Specialties Teachers, Postsecondary",5,Jul-11,Analyst
+251072.0000,251072,25,"Nursing Instructors and Teachers, Postsecondary",5,Jul-11,Analyst
+251081.0000,251081,25,"Education Teachers, Postsecondary",5,Jul-11,Analyst
+251082.0000,251082,25,"Library Science Teachers, Postsecondary",5,Jul-11,Analyst
+251111.0000,251111,25,"Criminal Justice and Law Enforcement Teachers, Postsecondary",5,Jul-11,Analyst
+251112.0000,251112,25,"Law Teachers, Postsecondary",5,Jul-11,Analyst
+251113.0000,251113,25,"Social Work Teachers, Postsecondary",5,Jul-14,Analyst
+251121.0000,251121,25,"Art, Drama, and Music Teachers, Postsecondary",5,Jul-11,Analyst
+251122.0000,251122,25,"Communications Teachers, Postsecondary",5,Jul-11,Analyst
+251123.0000,251123,25,"English Language and Literature Teachers, Postsecondary",5,Jul-11,Analyst
+251124.0000,251124,25,"Foreign Language and Literature Teachers, Postsecondary",5,Jul-11,Analyst
+251125.0000,251125,25,"History Teachers, Postsecondary",5,Jul-11,Analyst
+251126.0000,251126,25,"Philosophy and Religion Teachers, Postsecondary",5,Jul-11,Analyst
+251191.0000,251191,25,Graduate Teaching Assistants,5,Jul-16,Analyst
+251192.0000,251192,25,"Home Economics Teachers, Postsecondary",5,Jul-11,Analyst
+251193.0000,251193,25,"Recreation and Fitness Studies Teachers, Postsecondary",5,Jul-11,Analyst
+251194.0000,251194,25,"Vocational Education Teachers, Postsecondary",3,Jul-11,Analyst
+252011.0000,252011,25,"Preschool Teachers, Except Special Education",3,Jun-10,Analyst
+252012.0000,252012,25,"Kindergarten Teachers, Except Special Education",4,Aug-18,Analyst
+252021.0000,252021,25,"Elementary School Teachers, Except Special Education",4,Aug-18,Analyst
+252022.0000,252022,25,"Middle School Teachers, Except Special and Career/Technical Education",4,Aug-18,Analyst
+252023.0000,252023,25,"Career/Technical Education Teachers, Middle School",4,Aug-18,Analyst
+252031.0000,252031,25,"Secondary School Teachers, Except Special and Career/Technical Education",4,Aug-18,Analyst
+252032.0000,252032,25,"Career/Technical Education Teachers, Secondary School",4,Aug-18,Analyst
+252052.0000,252052,25,"Special Education Teachers, Kindergarten and Elementary School",4,Jul-15,Analyst
+252053.0000,252053,25,"Special Education Teachers, Middle School",4,Aug-18,Analyst
+252054.0000,252054,25,"Special Education Teachers, Secondary School",4,Aug-18,Analyst
+252059.0100,252059,25,Adapted Physical Education Specialists,4,Jul-12,Analyst
+253011.0000,253011,25,Adult Basic and Secondary Education and Literacy Teachers and Instructors,4,Aug-18,Analyst
+253021.0000,253021,25,Self-Enrichment Education Teachers,3,Jul-11,Analyst
+253099.0200,253099,25,Tutors,4,Jul-14,Analyst
+254011.0000,254011,25,Archivists,5,Jul-11,Analyst
+254012.0000,254012,25,Curators,5,Aug-18,Analyst
+254013.0000,254013,25,Museum Technicians and Conservators,4,Aug-18,Analyst
+254021.0000,254021,25,Librarians,5,Jul-17,Analyst
+254031.0000,254031,25,Library Technicians,3,Jul-17,Analyst
+259011.0000,259011,25,Audio-Visual and Multimedia Collections Specialists,4,Jun-10,Analyst
+259021.0000,259021,25,Farm and Home Management Advisors,5,Jul-15,Analyst
+259031.0000,259031,25,Instructional Coordinators,5,Aug-18,Analyst
+259031.0100,259031,25,Instructional Designers and Technologists,5,Jul-13,Analyst
+259041.0000,259041,25,Teacher Assistants,3,Aug-18,Analyst
+271011.0000,271011,27,Art Directors,4,Jul-12,Analyst
+271012.0000,271012,27,Craft Artists,3,Jul-16,Analyst
+271013.0000,271013,27,"Fine Artists, Including Painters, Sculptors, and Illustrators",3,Jul-17,Analyst
+271014.0000,271014,27,Multimedia Artists and Animators,4,Jun-10,Analyst
+271021.0000,271021,27,Commercial and Industrial Designers,4,Jun-10,Analyst
+271022.0000,271022,27,Fashion Designers,3,Jun-07,Analyst
+271023.0000,271023,27,Floral Designers,2,Jul-15,Analyst
+271024.0000,271024,27,Graphic Designers,4,Jul-16,Analyst
+271025.0000,271025,27,Interior Designers,4,Jul-17,Analyst
+271026.0000,271026,27,Merchandise Displayers and Window Trimmers,3,Jul-15,Analyst
+271027.0000,271027,27,Set and Exhibit Designers,5,Jul-14,Analyst
+272011.0000,272011,27,Actors,2,Jul-17,Analyst
+272012.0100,272012,27,Producers,4,Jul-11,Analyst
+272012.0200,272012,27,"Directors- Stage, Motion Pictures, Television, and Radio",4,Jun-10,Analyst
+272012.0300,272012,27,Program Directors,4,Jul-12,Analyst
+272012.0400,272012,27,Talent Directors,4,Dec-06,Analyst
+272012.0500,272012,27,Technical Directors/Managers,4,Jun-10,Analyst
+272021.0000,272021,27,Athletes and Sports Competitors,2,Jul-16,Analyst
+272022.0000,272022,27,Coaches and Scouts,4,Jul-11,Analyst
+272023.0000,272023,27,"Umpires, Referees, and Other Sports Officials",3,Jul-14,Analyst
+272031.0000,272031,27,Dancers,3,Dec-05,Analyst
+272032.0000,272032,27,Choreographers,4,Aug-18,Analyst
+272041.0100,272041,27,Music Directors,4,Jul-17,Analyst
+272041.0400,272041,27,Music Composers and Arrangers,3,Jun-07,Analyst
+272042.0100,272042,27,Singers,2,Jun-07,Analyst
+272042.0200,272042,27,"Musicians, Instrumental",4,Jul-16,Analyst
+273011.0000,273011,27,Radio and Television Announcers,4,Jul-16,Analyst
+273012.0000,273012,27,Public Address System and Other Announcers,2,Jul-16,Analyst
+273021.0000,273021,27,Broadcast News Analysts,4,Jul-17,Analyst
+273022.0000,273022,27,Reporters and Correspondents,4,Jul-14,Analyst
+273031.0000,273031,27,Public Relations Specialists,4,Jul-14,Analyst
+273041.0000,273041,27,Editors,4,Jul-17,Analyst
+273042.0000,273042,27,Technical Writers,4,Jul-12,Analyst
+273043.0400,273043,27,Copy Writers,4,Jun-09,Analyst
+273043.0500,273043,27,"Poets, Lyricists and Creative Writers",4,Jul-17,Analyst
+273091.0000,273091,27,Interpreters and Translators,4,Jul-12,Analyst
+274011.0000,274011,27,Audio and Video Equipment Technicians,3,Aug-18,Analyst
+274012.0000,274012,27,Broadcast Technicians,3,Jun-10,Analyst
+274013.0000,274013,27,Radio Operators,3,Jun-08,Analyst
+274014.0000,274014,27,Sound Engineering Technicians,3,Jun-10,Analyst
+274021.0000,274021,27,Photographers,3,Jul-14,Analyst
+274031.0000,274031,27,"Camera Operators, Television, Video, and Motion Picture",3,Jun-10,Analyst
+274032.0000,274032,27,Film and Video Editors,3,Jun-10,Analyst
+291011.0000,291011,29,Chiropractors,5,Jul-13,Analyst
+291021.0000,291021,29,"Dentists, General",5,Jul-14,Analyst
+291022.0000,291022,29,Oral and Maxillofacial Surgeons,5,Jul-12,Analyst
+291023.0000,291023,29,Orthodontists,5,Jul-12,Analyst
+291024.0000,291024,29,Prosthodontists,5,Jul-12,Analyst
+291031.0000,291031,29,Dietitians and Nutritionists,5,Jul-14,Analyst
+291041.0000,291041,29,Optometrists,5,Jul-14,Analyst
+291051.0000,291051,29,Pharmacists,5,Jul-13,Analyst
+291061.0000,291061,29,Anesthesiologists,5,Jul-12,Analyst
+291062.0000,291062,29,Family and General Practitioners,5,Jul-11,Analyst
+291063.0000,291063,29,"Internists, General",5,Jul-12,Analyst
+291064.0000,291064,29,Obstetricians and Gynecologists,5,Jul-11,Analyst
+291065.0000,291065,29,"Pediatricians, General",5,Jul-12,Analyst
+291066.0000,291066,29,Psychiatrists,5,Jul-14,Analyst
+291067.0000,291067,29,Surgeons,5,Jul-11,Analyst
+291069.0100,291069,29,Allergists and Immunologists,5,Jul-12,Analyst
+291069.0200,291069,29,Dermatologists,5,Jul-12,Analyst
+291069.0300,291069,29,Hospitalists,5,Jul-14,Analyst
+291069.0400,291069,29,Neurologists,5,Jul-12,Analyst
+291069.0500,291069,29,Nuclear Medicine Physicians,5,Jul-14,Analyst
+291069.0600,291069,29,Ophthalmologists,5,Jul-12,Analyst
+291069.0700,291069,29,Pathologists,5,Jul-11,Analyst
+291069.0800,291069,29,Physical Medicine and Rehabilitation Physicians,5,Jul-12,Analyst
+291069.0900,291069,29,Preventive Medicine Physicians,5,Jul-16,Analyst
+291069.1000,291069,29,Radiologists,5,Jul-12,Analyst
+291069.1100,291069,29,Sports Medicine Physicians,5,Jul-12,Analyst
+291069.1200,291069,29,Urologists,5,Jul-12,Analyst
+291071.0000,291071,29,Physician Assistants,5,Jul-14,Analyst
+291071.0100,291071,29,Anesthesiologist Assistants,5,Jul-12,Analyst
+291081.0000,291081,29,Podiatrists,5,Jul-11,Analyst
+291122.0000,291122,29,Occupational Therapists,5,Jul-14,Analyst
+291122.0100,291122,29,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",5,Jul-14,Analyst
+291123.0000,291123,29,Physical Therapists,5,Jul-13,Analyst
+291124.0000,291124,29,Radiation Therapists,3,Jul-13,Analyst
+291125.0000,291125,29,Recreational Therapists,4,Jul-16,Analyst
+291125.0100,291125,29,Art Therapists,5,Jul-14,Analyst
+291125.0200,291125,29,Music Therapists,4,Jul-14,Analyst
+291126.0000,291126,29,Respiratory Therapists,3,Jul-13,Analyst
+291127.0000,291127,29,Speech-Language Pathologists,5,Jul-13,Analyst
+291128.0000,291128,29,Exercise Physiologists,5,Jul-13,Analyst
+291131.0000,291131,29,Veterinarians,5,Jul-13,Analyst
+291141.0000,291141,29,Registered Nurses,3,Jul-13,Analyst
+291141.0100,291141,29,Acute Care Nurses,3,Jul-14,Analyst
+291141.0200,291141,29,Advanced Practice Psychiatric Nurses,5,Jul-14,Analyst
+291141.0300,291141,29,Critical Care Nurses,3,Jul-14,Analyst
+291141.0400,291141,29,Clinical Nurse Specialists,5,Jul-13,Analyst
+291151.0000,291151,29,Nurse Anesthetists,5,Jul-14,Analyst
+291161.0000,291161,29,Nurse Midwives,5,Jul-14,Analyst
+291171.0000,291171,29,Nurse Practitioners,5,Jul-14,Analyst
+291181.0000,291181,29,Audiologists,5,Jul-14,Analyst
+291199.0100,291199,29,Acupuncturists,5,Jul-11,Analyst
+291199.0400,291199,29,Naturopathic Physicians,5,Jul-13,Analyst
+291199.0500,291199,29,Orthoptists,5,Jul-16,Analyst
+292011.0000,292011,29,Medical and Clinical Laboratory Technologists,4,Jul-13,Analyst
+292011.0100,292011,29,Cytogenetic Technologists,4,Jul-14,Analyst
+292011.0200,292011,29,Cytotechnologists,5,Jul-14,Analyst
+292011.0300,292011,29,Histotechnologists and Histologic Technicians,3,Jul-14,Analyst
+292012.0000,292012,29,Medical and Clinical Laboratory Technicians,3,Jul-14,Analyst
+292021.0000,292021,29,Dental Hygienists,3,Jul-13,Analyst
+292031.0000,292031,29,Cardiovascular Technologists and Technicians,3,Jul-14,Analyst
+292032.0000,292032,29,Diagnostic Medical Sonographers,3,Jul-13,Analyst
+292033.0000,292033,29,Nuclear Medicine Technologists,3,Jul-13,Analyst
+292034.0000,292034,29,Radiologic Technologists,3,Jul-13,Analyst
+292035.0000,292035,29,Magnetic Resonance Imaging Technologists,3,Jul-17,Analyst
+292041.0000,292041,29,Emergency Medical Technicians and Paramedics,3,Jul-13,Analyst
+292051.0000,292051,29,Dietetic Technicians,2,Jul-13,Analyst
+292052.0000,292052,29,Pharmacy Technicians,3,Jul-13,Analyst
+292053.0000,292053,29,Psychiatric Technicians,3,Jul-14,Analyst
+292054.0000,292054,29,Respiratory Therapy Technicians,3,Jul-14,Analyst
+292055.0000,292055,29,Surgical Technologists,3,Jul-13,Analyst
+292056.0000,292056,29,Veterinary Technologists and Technicians,3,Jul-13,Analyst
+292057.0000,292057,29,Ophthalmic Medical Technicians,3,Jul-13,Analyst
+292061.0000,292061,29,Licensed Practical and Licensed Vocational Nurses,3,Jul-13,Analyst
+292071.0000,292071,29,Medical Records and Health Information Technicians,3,Jul-13,Analyst
+292081.0000,292081,29,"Opticians, Dispensing",3,Jul-15,Analyst
+292091.0000,292091,29,Orthotists and Prosthetists,5,Jul-12,Analyst
+292092.0000,292092,29,Hearing Aid Specialists,3,Jul-12,Analyst
+292099.0100,292099,29,Neurodiagnostic Technologists,3,Jul-14,Analyst
+292099.0500,292099,29,Ophthalmic Medical Technologists,3,Jul-13,Analyst
+292099.0600,292099,29,Radiologic Technicians,3,Jul-13,Analyst
+292099.0700,292099,29,Surgical Assistants,3,Jul-15,Analyst
+299011.0000,299011,29,Occupational Health and Safety Specialists,4,Jul-12,Analyst
+299012.0000,299012,29,Occupational Health and Safety Technicians,3,Jul-12,Analyst
+299091.0000,299091,29,Athletic Trainers,5,Jul-14,Analyst
+299092.0000,299092,29,Genetic Counselors,5,Jul-14,Analyst
+299099.0100,299099,29,Midwives,4,Jul-12,Analyst
+311011.0000,311011,31,Home Health Aides,2,Jul-14,Analyst
+311013.0000,311013,31,Psychiatric Aides,2,Jul-14,Analyst
+311014.0000,311014,31,Nursing Assistants,2,Jul-13,Analyst
+311015.0000,311015,31,Orderlies,2,Jul-16,Analyst
+312011.0000,312011,31,Occupational Therapy Assistants,3,Jul-14,Analyst
+312012.0000,312012,31,Occupational Therapy Aides,3,Jul-12,Analyst
+312021.0000,312021,31,Physical Therapist Assistants,3,Jul-13,Analyst
+312022.0000,312022,31,Physical Therapist Aides,2,Jul-13,Analyst
+319011.0000,319011,31,Massage Therapists,3,Jul-15,Analyst
+319091.0000,319091,31,Dental Assistants,3,Jul-13,Analyst
+319092.0000,319092,31,Medical Assistants,3,Jul-13,Analyst
+319093.0000,319093,31,Medical Equipment Preparers,2,Jul-14,Analyst
+319094.0000,319094,31,Medical Transcriptionists,3,Jul-12,Analyst
+319095.0000,319095,31,Pharmacy Aides,2,Jul-14,Analyst
+319096.0000,319096,31,Veterinary Assistants and Laboratory Animal Caretakers,3,Jul-13,Analyst
+319097.0000,319097,31,Phlebotomists,3,Jul-12,Analyst
+319099.0100,319099,31,Speech-Language Pathology Assistants,3,Jul-11,Analyst
+319099.0200,319099,31,Endoscopy Technicians,3,Jul-16,Analyst
+331011.0000,331011,33,First-Line Supervisors of Correctional Officers,3,Jul-12,Analyst
+331012.0000,331012,33,First-Line Supervisors of Police and Detectives,3,Jul-16,Analyst
+331021.0100,331021,33,Municipal Fire Fighting and Prevention Supervisors,3,Jul-17,Analyst
+331021.0200,331021,33,Forest Fire Fighting and Prevention Supervisors,3,Jul-14,Analyst
+332011.0100,332011,33,Municipal Firefighters,3,Jul-17,Analyst
+332011.0200,332011,33,Forest Firefighters,2,Aug-18,Analyst
+332021.0100,332021,33,Fire Inspectors,3,Jul-17,Analyst
+332021.0200,332021,33,Fire Investigators,3,Aug-18,Analyst
+332022.0000,332022,33,Forest Fire Inspectors and Prevention Specialists,3,Dec-06,Analyst
+333011.0000,333011,33,Bailiffs,2,Jul-11,Analyst
+333012.0000,333012,33,Correctional Officers and Jailers,2,Jul-16,Analyst
+333021.0100,333021,33,Police Detectives,3,Jul-16,Analyst
+333021.0200,333021,33,Police Identification and Records Officers,3,Aug-18,Analyst
+333021.0300,333021,33,Criminal Investigators and Special Agents,3,Jul-11,Analyst
+333021.0500,333021,33,Immigration and Customs Inspectors,3,Jul-12,Analyst
+333021.0600,333021,33,Intelligence Analysts,4,Jul-12,Analyst
+333031.0000,333031,33,Fish and Game Wardens,4,Jul-14,Analyst
+333041.0000,333041,33,Parking Enforcement Workers,2,Jul-16,Analyst
+333051.0100,333051,33,Police Patrol Officers,3,Jul-16,Analyst
+333051.0300,333051,33,Sheriffs and Deputy Sheriffs,3,Jul-12,Analyst
+333052.0000,333052,33,Transit and Railroad Police,3,Jul-17,Analyst
+339011.0000,339011,33,Animal Control Workers,2,Aug-18,Analyst
+339021.0000,339021,33,Private Detectives and Investigators,3,Jul-15,Analyst
+339031.0000,339031,33,Gaming Surveillance Officers and Gaming Investigators,2,Jul-11,Analyst
+339032.0000,339032,33,Security Guards,2,Jul-16,Analyst
+339091.0000,339091,33,Crossing Guards,2,Jul-16,Analyst
+339092.0000,339092,33,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",2,Jul-11,Analyst
+339093.0000,339093,33,Transportation Security Screeners,2,Jun-09,Analyst
+339099.0200,339099,33,Retail Loss Prevention Specialists,2,Jul-14,Analyst
+351011.0000,351011,35,Chefs and Head Cooks,3,Jul-13,Analyst
+351012.0000,351012,35,First-Line Supervisors of Food Preparation and Serving Workers,2,Jul-17,Analyst
+352011.0000,352011,35,"Cooks, Fast Food",1,Jul-11,Analyst
+352012.0000,352012,35,"Cooks, Institution and Cafeteria",2,Jul-12,Analyst
+352013.0000,352013,35,"Cooks, Private Household",3,Jul-16,Analyst
+352014.0000,352014,35,"Cooks, Restaurant",2,Aug-18,Analyst
+352015.0000,352015,35,"Cooks, Short Order",2,Aug-18,Analyst
+352021.0000,352021,35,Food Preparation Workers,1,Jul-17,Analyst
+353011.0000,353011,35,Bartenders,2,Jul-17,Analyst
+353021.0000,353021,35,"Combined Food Preparation and Serving Workers, Including Fast Food",1,Jul-17,Analyst
+353022.0000,353022,35,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",1,Aug-18,Analyst
+353022.0100,353022,35,Baristas,1,Jul-15,Analyst
+353031.0000,353031,35,Waiters and Waitresses,2,Aug-18,Analyst
+353041.0000,353041,35,"Food Servers, Nonrestaurant",1,Jul-14,Analyst
+359011.0000,359011,35,Dining Room and Cafeteria Attendants and Bartender Helpers,1,Jul-14,Analyst
+359021.0000,359021,35,Dishwashers,1,Jul-14,Analyst
+359031.0000,359031,35,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",2,Aug-18,Analyst
+371011.0000,371011,37,First-Line Supervisors of Housekeeping and Janitorial Workers,2,Jul-11,Analyst
+371012.0000,371012,37,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",3,Jul-15,Analyst
+372011.0000,372011,37,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",2,Jul-14,Analyst
+372012.0000,372012,37,Maids and Housekeeping Cleaners,2,Jul-12,Analyst
+372021.0000,372021,37,Pest Control Workers,2,Jul-15,Analyst
+373011.0000,373011,37,Landscaping and Groundskeeping Workers,1,Jul-15,Analyst
+373012.0000,373012,37,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",2,Jul-15,Analyst
+373013.0000,373013,37,Tree Trimmers and Pruners,2,Aug-18,Analyst
+391011.0000,391011,39,Gaming Supervisors,2,Jul-14,Analyst
+391012.0000,391012,39,Slot Supervisors,2,Jul-17,Analyst
+391021.0000,391021,39,First-Line Supervisors of Personal Service Workers,3,Jul-15,Analyst
+391021.0100,391021,39,Spa Managers,3,Jul-12,Analyst
+392011.0000,392011,39,Animal Trainers,2,Jul-14,Analyst
+392021.0000,392021,39,Nonfarm Animal Caretakers,1,Jul-11,Analyst
+393011.0000,393011,39,Gaming Dealers,2,Jul-11,Analyst
+393012.0000,393012,39,Gaming and Sports Book Writers and Runners,2,Jul-14,Analyst
+393021.0000,393021,39,Motion Picture Projectionists,2,Dec-05,Analyst
+393031.0000,393031,39,"Ushers, Lobby Attendants, and Ticket Takers",2,Jul-15,Analyst
+393091.0000,393091,39,Amusement and Recreation Attendants,1,Jul-11,Analyst
+393092.0000,393092,39,Costume Attendants,2,Jul-16,Analyst
+393093.0000,393093,39,"Locker Room, Coatroom, and Dressing Room Attendants",2,Jul-11,Analyst
+394011.0000,394011,39,Embalmers,3,Jul-12,Analyst
+394021.0000,394021,39,Funeral Attendants,2,Jul-14,Analyst
+394031.0000,394031,39,"Morticians, Undertakers, and Funeral Directors",3,Jul-17,Analyst
+395011.0000,395011,39,Barbers,3,Aug-18,Analyst
+395012.0000,395012,39,"Hairdressers, Hairstylists, and Cosmetologists",3,Jul-16,Analyst
+395091.0000,395091,39,"Makeup Artists, Theatrical and Performance",3,Aug-18,Analyst
+395092.0000,395092,39,Manicurists and Pedicurists,2,Jul-15,Analyst
+395093.0000,395093,39,Shampooers,2,Jun-08,Analyst
+395094.0000,395094,39,Skincare Specialists,3,Jul-12,Analyst
+396011.0000,396011,39,Baggage Porters and Bellhops,2,Aug-18,Analyst
+396012.0000,396012,39,Concierges,3,Jul-12,Analyst
+397011.0000,397011,39,Tour Guides and Escorts,3,Jul-11,Analyst
+397012.0000,397012,39,Travel Guides,3,Jun-07,Analyst
+399011.0000,399011,39,Childcare Workers,2,Aug-18,Analyst
+399011.0100,399011,39,Nannies,2,Aug-18,Analyst
+399021.0000,399021,39,Personal Care Aides,2,Jul-14,Analyst
+399031.0000,399031,39,Fitness Trainers and Aerobics Instructors,3,Jul-14,Analyst
+399032.0000,399032,39,Recreation Workers,4,Jul-17,Analyst
+399041.0000,399041,39,Residential Advisors,3,Jul-11,Analyst
+411011.0000,411011,41,First-Line Supervisors of Retail Sales Workers,2,Aug-18,Analyst
+411012.0000,411012,41,First-Line Supervisors of Non-Retail Sales Workers,4,Jul-12,Analyst
+412011.0000,412011,41,Cashiers,2,Aug-18,Analyst
+412012.0000,412012,41,Gaming Change Persons and Booth Cashiers,2,Jul-11,Analyst
+412021.0000,412021,41,Counter and Rental Clerks,1,Jun-10,Analyst
+412022.0000,412022,41,Parts Salespersons,2,Jul-15,Analyst
+412031.0000,412031,41,Retail Salespersons,2,Aug-18,Analyst
+413011.0000,413011,41,Advertising Sales Agents,4,Aug-18,Analyst
+413021.0000,413021,41,Insurance Sales Agents,4,Aug-18,Analyst
+413031.0100,413031,41,"Sales Agents, Securities and Commodities",4,Jul-15,Analyst
+413031.0200,413031,41,"Sales Agents, Financial Services",3,Jul-13,Analyst
+413031.0300,413031,41,Securities and Commodities Traders,4,Jul-15,Analyst
+413041.0000,413041,41,Travel Agents,3,Jul-16,Analyst
+413099.0100,413099,41,Energy Brokers,4,Jul-14,Analyst
+414011.0000,414011,41,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",4,Jul-14,Analyst
+414011.0700,414011,41,Solar Sales Representatives and Assessors,3,Jul-12,Analyst
+414012.0000,414012,41,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",4,Jul-12,Analyst
+419011.0000,419011,41,Demonstrators and Product Promoters,2,Jul-16,Analyst
+419012.0000,419012,41,Models,1,Jun-07,Analyst
+419021.0000,419021,41,Real Estate Brokers,4,Jul-15,Analyst
+419022.0000,419022,41,Real Estate Sales Agents,3,Jun-09,Analyst
+419031.0000,419031,41,Sales Engineers,4,Jul-13,Analyst
+419041.0000,419041,41,Telemarketers,2,Dec-04,Analyst
+419091.0000,419091,41,"Door-To-Door Sales Workers, News and Street Vendors, and Related Workers",1,Aug-18,Analyst
+431011.0000,431011,43,First-Line Supervisors of Office and Administrative Support Workers,3,Jul-15,Analyst
+432011.0000,432011,43,"Switchboard Operators, Including Answering Service",2,Jul-13,Analyst
+432021.0000,432021,43,Telephone Operators,2,Jun-07,Analyst
+433011.0000,433011,43,Bill and Account Collectors,2,Aug-18,Analyst
+433021.0100,433021,43,Statement Clerks,2,Jul-14,Analyst
+433021.0200,433021,43,"Billing, Cost, and Rate Clerks",2,Jul-14,Analyst
+433031.0000,433031,43,"Bookkeeping, Accounting, and Auditing Clerks",3,Jul-17,Analyst
+433041.0000,433041,43,Gaming Cage Workers,2,Jul-14,Analyst
+433051.0000,433051,43,Payroll and Timekeeping Clerks,2,Jul-16,Analyst
+433061.0000,433061,43,Procurement Clerks,3,Jul-15,Analyst
+433071.0000,433071,43,Tellers,2,Aug-18,Analyst
+434011.0000,434011,43,Brokerage Clerks,3,Jul-14,Analyst
+434021.0000,434021,43,Correspondence Clerks,2,Jul-16,Analyst
+434031.0100,434031,43,Court Clerks,2,Jul-12,Analyst
+434031.0200,434031,43,Municipal Clerks,3,Jul-14,Analyst
+434031.0300,434031,43,License Clerks,2,Jul-14,Analyst
+434041.0100,434041,43,Credit Authorizers,3,Dec-05,Analyst
+434041.0200,434041,43,Credit Checkers,2,Dec-05,Analyst
+434051.0000,434051,43,Customer Service Representatives,2,Jul-13,Analyst
+434051.0300,434051,43,Patient Representatives,4,Jul-11,Analyst
+434061.0000,434061,43,"Eligibility Interviewers, Government Programs",3,Jul-16,Analyst
+434071.0000,434071,43,File Clerks,2,Jul-14,Analyst
+434081.0000,434081,43,"Hotel, Motel, and Resort Desk Clerks",2,Jul-17,Analyst
+434111.0000,434111,43,"Interviewers, Except Eligibility and Loan",2,Jul-13,Analyst
+434121.0000,434121,43,"Library Assistants, Clerical",2,Aug-18,Analyst
+434131.0000,434131,43,Loan Interviewers and Clerks,3,Jul-17,Analyst
+434141.0000,434141,43,New Accounts Clerks,2,Jul-11,Analyst
+434151.0000,434151,43,Order Clerks,2,Jul-16,Analyst
+434161.0000,434161,43,"Human Resources Assistants, Except Payroll and Timekeeping",3,Jul-17,Analyst
+434171.0000,434171,43,Receptionists and Information Clerks,2,Jul-14,Analyst
+434181.0000,434181,43,Reservation and Transportation Ticket Agents and Travel Clerks,2,Jul-13,Analyst
+435011.0000,435011,43,Cargo and Freight Agents,2,Jul-12,Analyst
+435011.0100,435011,43,Freight Forwarders,2,Jul-14,Analyst
+435021.0000,435021,43,Couriers and Messengers,2,Jul-16,Analyst
+435031.0000,435031,43,"Police, Fire, and Ambulance Dispatchers",2,Jul-16,Analyst
+435032.0000,435032,43,"Dispatchers, Except Police, Fire, and Ambulance",2,Jul-13,Analyst
+435041.0000,435041,43,"Meter Readers, Utilities",2,Jul-16,Analyst
+435051.0000,435051,43,Postal Service Clerks,2,Jul-16,Analyst
+435052.0000,435052,43,Postal Service Mail Carriers,2,Jul-16,Analyst
+435053.0000,435053,43,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",2,Jul-16,Analyst
+435061.0000,435061,43,"Production, Planning, and Expediting Clerks",3,Jul-13,Analyst
+435071.0000,435071,43,"Shipping, Receiving, and Traffic Clerks",2,Jul-12,Analyst
+435081.0100,435081,43,"Stock Clerks, Sales Floor",2,Jul-15,Analyst
+435081.0200,435081,43,Marking Clerks,2,Jun-06,Analyst
+435081.0300,435081,43,"Stock Clerks- Stockroom, Warehouse, or Storage Yard",2,Jul-15,Analyst
+435081.0400,435081,43,"Order Fillers, Wholesale and Retail Sales",2,Jul-15,Analyst
+435111.0000,435111,43,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",2,Aug-18,Analyst
+436011.0000,436011,43,Executive Secretaries and Executive Administrative Assistants,3,Jul-17,Analyst
+436012.0000,436012,43,Legal Secretaries,3,Aug-18,Analyst
+436013.0000,436013,43,Medical Secretaries,3,Jul-13,Analyst
+436014.0000,436014,43,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",3,Jul-12,Analyst
+439011.0000,439011,43,Computer Operators,3,Aug-18,Analyst
+439021.0000,439021,43,Data Entry Keyers,2,Aug-18,Analyst
+439022.0000,439022,43,Word Processors and Typists,2,Jul-17,Analyst
+439031.0000,439031,43,Desktop Publishers,3,Jun-09,Analyst
+439041.0100,439041,43,Insurance Claims Clerks,3,Jul-15,Analyst
+439041.0200,439041,43,Insurance Policy Processing Clerks,2,Aug-18,Analyst
+439051.0000,439051,43,"Mail Clerks and Mail Machine Operators, Except Postal Service",2,Jul-16,Analyst
+439061.0000,439061,43,"Office Clerks, General",2,Aug-18,Analyst
+439071.0000,439071,43,"Office Machine Operators, Except Computer",2,Jul-17,Analyst
+439081.0000,439081,43,Proofreaders and Copy Markers,4,Jul-16,Analyst
+439111.0000,439111,43,Statistical Assistants,4,Jul-15,Analyst
+439111.0100,439111,43,Bioinformatics Technicians,4,Jul-14,Analyst
+451011.0500,451011,45,First-Line Supervisors of Logging Workers,2,Jul-14,Analyst
+451011.0600,451011,45,First-Line Supervisors of Aquacultural Workers,4,Jun-08,Analyst
+451011.0700,451011,45,First-Line Supervisors of Agricultural Crop and Horticultural Workers,3,Jul-14,Analyst
+451011.0800,451011,45,First-Line Supervisors of Animal Husbandry and Animal Care Workers,3,Jul-17,Analyst
+452011.0000,452011,45,Agricultural Inspectors,2,Jul-13,Analyst
+452021.0000,452021,45,Animal Breeders,2,Aug-18,Analyst
+452041.0000,452041,45,"Graders and Sorters, Agricultural Products",1,Jul-17,Analyst
+452091.0000,452091,45,Agricultural Equipment Operators,2,Jun-07,Analyst
+452092.0100,452092,45,Nursery Workers,2,Jul-16,Analyst
+452092.0200,452092,45,"Farmworkers and Laborers, Crop",1,Jun-07,Analyst
+452093.0000,452093,45,"Farmworkers, Farm, Ranch, and Aquacultural Animals",1,Jun-07,Analyst
+453011.0000,453011,45,Fishers and Related Fishing Workers,1,Jun-07,Analyst
+453021.0000,453021,45,Hunters and Trappers,1,Jul-16,Analyst
+454011.0000,454011,45,Forest and Conservation Workers,3,Jul-14,Analyst
+454021.0000,454021,45,Fallers,1,Jun-07,Analyst
+454022.0000,454022,45,Logging Equipment Operators,1,Jul-17,Analyst
+454023.0000,454023,45,Log Graders and Scalers,2,Jul-17,Analyst
+471011.0000,471011,47,First-Line Supervisors of Construction Trades and Extraction Workers,3,Jul-12,Analyst
+471011.0300,471011,47,Solar Energy Installation Managers,3,Jul-14,Analyst
+472011.0000,472011,47,Boilermakers,3,Jul-15,Analyst
+472021.0000,472021,47,Brickmasons and Blockmasons,2,Aug-18,Analyst
+472022.0000,472022,47,Stonemasons,3,Dec-05,Analyst
+472031.0100,472031,47,Construction Carpenters,2,Jul-14,Analyst
+472031.0200,472031,47,Rough Carpenters,2,Jun-10,Analyst
+472041.0000,472041,47,Carpet Installers,2,Jul-11,Analyst
+472042.0000,472042,47,"Floor Layers, Except Carpet, Wood, and Hard Tiles",2,Dec-05,Analyst
+472043.0000,472043,47,Floor Sanders and Finishers,2,Jun-08,Analyst
+472044.0000,472044,47,Tile and Marble Setters,2,Jun-09,Analyst
+472051.0000,472051,47,Cement Masons and Concrete Finishers,1,Aug-18,Analyst
+472053.0000,472053,47,Terrazzo Workers and Finishers,2,Jul-15,Analyst
+472061.0000,472061,47,Construction Laborers,2,Jul-12,Analyst
+472071.0000,472071,47,"Paving, Surfacing, and Tamping Equipment Operators",2,Jul-11,Analyst
+472072.0000,472072,47,Pile-Driver Operators,2,Aug-18,Analyst
+472073.0000,472073,47,Operating Engineers and Other Construction Equipment Operators,2,Jul-12,Analyst
+472081.0000,472081,47,Drywall and Ceiling Tile Installers,2,Jul-16,Analyst
+472082.0000,472082,47,Tapers,2,Jul-15,Analyst
+472111.0000,472111,47,Electricians,3,Jul-13,Analyst
+472121.0000,472121,47,Glaziers,2,Jul-14,Analyst
+472131.0000,472131,47,"Insulation Workers, Floor, Ceiling, and Wall",2,Jul-15,Analyst
+472132.0000,472132,47,"Insulation Workers, Mechanical",2,Jun-07,Analyst
+472141.0000,472141,47,"Painters, Construction and Maintenance",2,Jul-14,Analyst
+472142.0000,472142,47,Paperhangers,2,Jun-08,Analyst
+472151.0000,472151,47,Pipelayers,2,Jul-15,Analyst
+472152.0100,472152,47,Pipe Fitters and Steamfitters,3,Jul-14,Analyst
+472152.0200,472152,47,Plumbers,3,Jul-13,Analyst
+472161.0000,472161,47,Plasterers and Stucco Masons,1,Jul-15,Analyst
+472171.0000,472171,47,Reinforcing Iron and Rebar Workers,2,Jul-15,Analyst
+472181.0000,472181,47,Roofers,2,Jul-15,Analyst
+472211.0000,472211,47,Sheet Metal Workers,2,Jul-14,Analyst
+472221.0000,472221,47,Structural Iron and Steel Workers,2,Jul-15,Analyst
+472231.0000,472231,47,Solar Photovoltaic Installers,2,Jul-12,Analyst
+473011.0000,473011,47,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",2,Jul-13,Analyst
+473012.0000,473012,47,Helpers--Carpenters,2,Jul-13,Analyst
+473013.0000,473013,47,Helpers--Electricians,2,Jul-11,Analyst
+473014.0000,473014,47,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",1,Jun-07,Analyst
+473015.0000,473015,47,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",2,Jul-11,Analyst
+473016.0000,473016,47,Helpers--Roofers,2,Jun-08,Analyst
+474011.0000,474011,47,Construction and Building Inspectors,3,Jul-13,Analyst
+474021.0000,474021,47,Elevator Installers and Repairers,3,Dec-06,Analyst
+474031.0000,474031,47,Fence Erectors,2,Jun-07,Analyst
+474041.0000,474041,47,Hazardous Materials Removal Workers,3,Jul-15,Analyst
+474051.0000,474051,47,Highway Maintenance Workers,2,Jul-17,Analyst
+474061.0000,474061,47,Rail-Track Laying and Maintenance Equipment Operators,2,Jul-15,Analyst
+474071.0000,474071,47,Septic Tank Servicers and Sewer Pipe Cleaners,1,Jul-17,Analyst
+474091.0000,474091,47,Segmental Pavers,2,Jun-08,Analyst
+474099.0200,474099,47,Solar Thermal Installers and Technicians,3,Jul-15,Analyst
+474099.0300,474099,47,Weatherization Installers and Technicians,2,Jul-12,Analyst
+475011.0000,475011,47,"Derrick Operators, Oil and Gas",1,Jun-06,Analyst
+475012.0000,475012,47,"Rotary Drill Operators, Oil and Gas",2,Dec-05,Analyst
+475013.0000,475013,47,"Service Unit Operators, Oil, Gas, and Mining",2,Jul-13,Analyst
+475021.0000,475021,47,"Earth Drillers, Except Oil and Gas",2,Jul-17,Analyst
+475031.0000,475031,47,"Explosives Workers, Ordnance Handling Experts, and Blasters",2,Jun-06,Analyst
+475041.0000,475041,47,Continuous Mining Machine Operators,2,Jul-16,Analyst
+475042.0000,475042,47,Mine Cutting and Channeling Machine Operators,2,Jul-05,Analyst
+475051.0000,475051,47,"Rock Splitters, Quarry",1,Jun-08,Analyst
+475061.0000,475061,47,"Roof Bolters, Mining",2,Jul-17,Analyst
+475071.0000,475071,47,"Roustabouts, Oil and Gas",1,Jul-11,Analyst
+475081.0000,475081,47,Helpers--Extraction Workers,2,Aug-18,Analyst
+491011.0000,491011,49,"First-Line Supervisors of Mechanics, Installers, and Repairers",3,Jul-13,Analyst
+492011.0000,492011,49,"Computer, Automated Teller, and Office Machine Repairers",3,Jul-15,Analyst
+492021.0000,492021,49,"Radio, Cellular, and Tower Equipment Installers and Repairers",3,Jul-13,Analyst
+492021.0100,492021,49,Radio Mechanics,3,Aug-18,Analyst
+492022.0000,492022,49,"Telecommunications Equipment Installers and Repairers, Except Line Installers",3,Jul-17,Analyst
+492091.0000,492091,49,Avionics Technicians,3,Jul-15,Analyst
+492092.0000,492092,49,"Electric Motor, Power Tool, and Related Repairers",3,Jul-17,Analyst
+492093.0000,492093,49,"Electrical and Electronics Installers and Repairers, Transportation Equipment",3,Dec-06,Analyst
+492094.0000,492094,49,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",3,Jul-14,Analyst
+492095.0000,492095,49,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",3,Jul-17,Analyst
+492096.0000,492096,49,"Electronic Equipment Installers and Repairers, Motor Vehicles",3,Jul-16,Analyst
+492097.0000,492097,49,Electronic Home Entertainment Equipment Installers and Repairers,3,Jun-07,Analyst
+492098.0000,492098,49,Security and Fire Alarm Systems Installers,3,Jul-15,Analyst
+493011.0000,493011,49,Aircraft Mechanics and Service Technicians,3,Jul-13,Analyst
+493021.0000,493021,49,Automotive Body and Related Repairers,2,Jun-09,Analyst
+493022.0000,493022,49,Automotive Glass Installers and Repairers,2,Jul-14,Analyst
+493023.0100,493023,49,Automotive Master Mechanics,3,Aug-18,Analyst
+493023.0200,493023,49,Automotive Specialty Technicians,3,Jul-14,Analyst
+493031.0000,493031,49,Bus and Truck Mechanics and Diesel Engine Specialists,3,Jul-13,Analyst
+493041.0000,493041,49,Farm Equipment Mechanics and Service Technicians,3,Jul-16,Analyst
+493042.0000,493042,49,"Mobile Heavy Equipment Mechanics, Except Engines",3,Jul-17,Analyst
+493043.0000,493043,49,Rail Car Repairers,2,Jun-06,Analyst
+493051.0000,493051,49,Motorboat Mechanics and Service Technicians,3,Jul-15,Analyst
+493052.0000,493052,49,Motorcycle Mechanics,3,Jul-14,Analyst
+493053.0000,493053,49,Outdoor Power Equipment and Other Small Engine Mechanics,2,Aug-18,Analyst
+493091.0000,493091,49,Bicycle Repairers,2,Jul-16,Analyst
+493092.0000,493092,49,Recreational Vehicle Service Technicians,2,Jul-15,Analyst
+493093.0000,493093,49,Tire Repairers and Changers,2,Jul-14,Analyst
+499011.0000,499011,49,Mechanical Door Repairers,2,Jul-15,Analyst
+499012.0000,499012,49,"Control and Valve Installers and Repairers, Except Mechanical Door",3,Jul-17,Analyst
+499021.0100,499021,49,Heating and Air Conditioning Mechanics and Installers,3,Jul-14,Analyst
+499021.0200,499021,49,Refrigeration Mechanics and Installers,3,Jun-10,Analyst
+499031.0000,499031,49,Home Appliance Repairers,2,Aug-18,Analyst
+499041.0000,499041,49,Industrial Machinery Mechanics,3,Jul-13,Analyst
+499043.0000,499043,49,"Maintenance Workers, Machinery",3,Jul-15,Analyst
+499044.0000,499044,49,Millwrights,2,Aug-18,Analyst
+499045.0000,499045,49,"Refractory Materials Repairers, Except Brickmasons",2,Jun-07,Analyst
+499051.0000,499051,49,Electrical Power-Line Installers and Repairers,3,Jul-12,Analyst
+499052.0000,499052,49,Telecommunications Line Installers and Repairers,2,Jul-15,Analyst
+499061.0000,499061,49,Camera and Photographic Equipment Repairers,3,Jul-15,Analyst
+499062.0000,499062,49,Medical Equipment Repairers,3,Jul-13,Analyst
+499063.0000,499063,49,Musical Instrument Repairers and Tuners,3,Jul-16,Analyst
+499064.0000,499064,49,Watch Repairers,3,Aug-18,Analyst
+499071.0000,499071,49,"Maintenance and Repair Workers, General",3,Jul-14,Analyst
+499081.0000,499081,49,Wind Turbine Service Technicians,3,Jul-13,Analyst
+499091.0000,499091,49,"Coin, Vending, and Amusement Machine Servicers and Repairers",2,Jul-17,Analyst
+499092.0000,499092,49,Commercial Divers,3,Jul-15,Analyst
+499093.0000,499093,49,"Fabric Menders, Except Garment",1,Jun-08,Analyst
+499094.0000,499094,49,Locksmiths and Safe Repairers,2,Jun-10,Analyst
+499095.0000,499095,49,Manufactured Building and Mobile Home Installers,2,Jun-07,Analyst
+499096.0000,499096,49,Riggers,2,Jun-07,Analyst
+499097.0000,499097,49,Signal and Track Switch Repairers,3,Jun-07,Analyst
+499098.0000,499098,49,"Helpers--Installation, Maintenance, and Repair Workers",2,Jul-11,Analyst
+499099.0100,499099,49,Geothermal Technicians,2,Jul-11,Analyst
+511011.0000,511011,51,First-Line Supervisors of Production and Operating Workers,2,Jul-11,Analyst
+512011.0000,512011,51,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",2,Jul-15,Analyst
+512021.0000,512021,51,"Coil Winders, Tapers, and Finishers",2,Jul-17,Analyst
+512022.0000,512022,51,Electrical and Electronic Equipment Assemblers,2,Jul-13,Analyst
+512023.0000,512023,51,Electromechanical Equipment Assemblers,2,Jul-17,Analyst
+512031.0000,512031,51,Engine and Other Machine Assemblers,2,Jul-14,Analyst
+512041.0000,512041,51,Structural Metal Fabricators and Fitters,3,Jul-13,Analyst
+512091.0000,512091,51,Fiberglass Laminators and Fabricators,2,Jun-07,Analyst
+512092.0000,512092,51,Team Assemblers,2,Jul-11,Analyst
+512093.0000,512093,51,Timing Device Assemblers and Adjusters,2,Jun-08,Analyst
+513011.0000,513011,51,Bakers,2,Jul-15,Analyst
+513021.0000,513021,51,Butchers and Meat Cutters,2,Jul-16,Analyst
+513022.0000,513022,51,"Meat, Poultry, and Fish Cutters and Trimmers",1,Jul-17,Analyst
+513023.0000,513023,51,Slaughterers and Meat Packers,2,Jul-17,Analyst
+513091.0000,513091,51,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",2,Jul-17,Analyst
+513092.0000,513092,51,Food Batchmakers,2,Jul-11,Analyst
+513093.0000,513093,51,Food Cooking Machine Operators and Tenders,2,Jul-11,Analyst
+514011.0000,514011,51,"Computer-Controlled Machine Tool Operators, Metal and Plastic",3,Jul-13,Analyst
+514012.0000,514012,51,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",3,Jul-16,Analyst
+514021.0000,514021,51,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",2,Jul-15,Analyst
+514022.0000,514022,51,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",2,Jul-16,Analyst
+514023.0000,514023,51,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",2,Aug-18,Analyst
+514031.0000,514031,51,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",2,Jul-15,Analyst
+514032.0000,514032,51,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2,Jul-13,Analyst
+514033.0000,514033,51,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2,Jul-16,Analyst
+514034.0000,514034,51,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2,Jul-16,Analyst
+514035.0000,514035,51,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",2,Jul-16,Analyst
+514041.0000,514041,51,Machinists,3,Jul-12,Analyst
+514051.0000,514051,51,Metal-Refining Furnace Operators and Tenders,2,Aug-18,Analyst
+514052.0000,514052,51,"Pourers and Casters, Metal",2,Aug-18,Analyst
+514061.0000,514061,51,"Model Makers, Metal and Plastic",3,Jul-16,Analyst
+514062.0000,514062,51,"Patternmakers, Metal and Plastic",3,Jul-17,Analyst
+514071.0000,514071,51,Foundry Mold and Coremakers,2,Jul-16,Analyst
+514072.0000,514072,51,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",2,Jul-16,Analyst
+514081.0000,514081,51,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2,Jul-13,Analyst
+514111.0000,514111,51,Tool and Die Makers,3,Jul-12,Analyst
+514121.0600,514121,51,"Welders, Cutters, and Welder Fitters",3,Jul-12,Analyst
+514121.0700,514121,51,Solderers and Brazers,2,Jul-15,Analyst
+514122.0000,514122,51,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",2,Jul-15,Analyst
+514191.0000,514191,51,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",2,Jul-16,Analyst
+514192.0000,514192,51,"Layout Workers, Metal and Plastic",2,Aug-18,Analyst
+514193.0000,514193,51,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",2,Jul-16,Analyst
+514194.0000,514194,51,"Tool Grinders, Filers, and Sharpeners",2,Jul-16,Analyst
+515111.0000,515111,51,Prepress Technicians and Workers,3,Jul-16,Analyst
+515112.0000,515112,51,Printing Press Operators,3,Jul-12,Analyst
+515113.0000,515113,51,Print Binding and Finishing Workers,2,Jul-15,Analyst
+516011.0000,516011,51,Laundry and Dry-Cleaning Workers,1,Jul-15,Analyst
+516021.0000,516021,51,"Pressers, Textile, Garment, and Related Materials",1,Jul-17,Analyst
+516031.0000,516031,51,Sewing Machine Operators,1,Jul-17,Analyst
+516041.0000,516041,51,Shoe and Leather Workers and Repairers,2,Jun-07,Analyst
+516042.0000,516042,51,Shoe Machine Operators and Tenders,2,Jun-07,Analyst
+516051.0000,516051,51,"Sewers, Hand",2,Jun-07,Analyst
+516052.0000,516052,51,"Tailors, Dressmakers, and Custom Sewers",3,Jun-08,Analyst
+516061.0000,516061,51,Textile Bleaching and Dyeing Machine Operators and Tenders,2,Jun-07,Analyst
+516062.0000,516062,51,"Textile Cutting Machine Setters, Operators, and Tenders",2,Jun-07,Analyst
+516063.0000,516063,51,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",2,Jun-07,Analyst
+516064.0000,516064,51,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",2,Jun-07,Analyst
+516091.0000,516091,51,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",2,Jun-07,Analyst
+516092.0000,516092,51,Fabric and Apparel Patternmakers,3,Jul-16,Analyst
+516093.0000,516093,51,Upholsterers,2,Jul-16,Analyst
+517011.0000,517011,51,Cabinetmakers and Bench Carpenters,2,Jul-15,Analyst
+517021.0000,517021,51,Furniture Finishers,2,Jul-17,Analyst
+517031.0000,517031,51,"Model Makers, Wood",3,Jun-07,Analyst
+517032.0000,517032,51,"Patternmakers, Wood",3,Dec-06,Analyst
+517041.0000,517041,51,"Sawing Machine Setters, Operators, and Tenders, Wood",2,Jul-13,Analyst
+517042.0000,517042,51,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",2,Jul-15,Analyst
+518011.0000,518011,51,Nuclear Power Reactor Operators,3,Jul-14,Analyst
+518012.0000,518012,51,Power Distributors and Dispatchers,3,Jul-14,Analyst
+518013.0000,518013,51,Power Plant Operators,2,Jul-14,Analyst
+518021.0000,518021,51,Stationary Engineers and Boiler Operators,3,Jul-13,Analyst
+518031.0000,518031,51,Water and Wastewater Treatment Plant and System Operators,3,Aug-18,Analyst
+518091.0000,518091,51,Chemical Plant and System Operators,2,Jul-15,Analyst
+518092.0000,518092,51,Gas Plant Operators,3,Jun-07,Analyst
+518093.0000,518093,51,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",2,Jun-07,Analyst
+518099.0100,518099,51,Biofuels Processing Technicians,2,Jul-16,Analyst
+518099.0300,518099,51,Biomass Plant Technicians,2,Jul-12,Analyst
+518099.0400,518099,51,Hydroelectric Plant Technicians,3,Jul-16,Analyst
+519011.0000,519011,51,Chemical Equipment Operators and Tenders,2,Jul-15,Analyst
+519012.0000,519012,51,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",2,Jul-15,Analyst
+519021.0000,519021,51,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",2,Jul-16,Analyst
+519022.0000,519022,51,"Grinding and Polishing Workers, Hand",1,Jul-16,Analyst
+519023.0000,519023,51,"Mixing and Blending Machine Setters, Operators, and Tenders",2,Jul-14,Analyst
+519031.0000,519031,51,"Cutters and Trimmers, Hand",2,Jun-07,Analyst
+519032.0000,519032,51,"Cutting and Slicing Machine Setters, Operators, and Tenders",2,Jul-16,Analyst
+519041.0000,519041,51,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",2,Jul-16,Analyst
+519051.0000,519051,51,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",2,Jul-15,Analyst
+519061.0000,519061,51,"Inspectors, Testers, Sorters, Samplers, and Weighers",2,Jul-12,Analyst
+519071.0100,519071,51,Jewelers,3,Jun-08,Analyst
+519071.0600,519071,51,Gem and Diamond Workers,3,Jun-08,Analyst
+519071.0700,519071,51,Precious Metal Workers,3,Jun-08,Analyst
+519081.0000,519081,51,Dental Laboratory Technicians,2,Jul-14,Analyst
+519082.0000,519082,51,Medical Appliance Technicians,3,Jul-15,Analyst
+519083.0000,519083,51,Ophthalmic Laboratory Technicians,2,Jul-15,Analyst
+519111.0000,519111,51,Packaging and Filling Machine Operators and Tenders,2,Jul-17,Analyst
+519121.0000,519121,51,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",2,Jul-17,Analyst
+519122.0000,519122,51,"Painters, Transportation Equipment",2,Jul-14,Analyst
+519123.0000,519123,51,"Painting, Coating, and Decorating Workers",2,Dec-06,Analyst
+519141.0000,519141,51,Semiconductor Processors,2,Dec-06,Analyst
+519151.0000,519151,51,Photographic Process Workers and Processing Machine Operators,2,Jul-17,Analyst
+519191.0000,519191,51,Adhesive Bonding Machine Operators and Tenders,2,Jul-15,Analyst
+519192.0000,519192,51,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",2,Jul-17,Analyst
+519193.0000,519193,51,Cooling and Freezing Equipment Operators and Tenders,2,Jul-17,Analyst
+519194.0000,519194,51,Etchers and Engravers,2,Jul-17,Analyst
+519195.0300,519195,51,"Stone Cutters and Carvers, Manufacturing",2,Jul-15,Analyst
+519195.0400,519195,51,"Glass Blowers, Molders, Benders, and Finishers",2,Jul-15,Analyst
+519195.0500,519195,51,"Potters, Manufacturing",3,Jun-08,Analyst
+519195.0700,519195,51,Molding and Casting Workers,2,Jul-15,Analyst
+519196.0000,519196,51,"Paper Goods Machine Setters, Operators, and Tenders",2,Aug-18,Analyst
+519197.0000,519197,51,Tire Builders,2,Jun-07,Analyst
+519198.0000,519198,51,Helpers--Production Workers,2,Jul-15,Analyst
+519199.0100,519199,51,Recycling and Reclamation Workers,2,Jul-12,Analyst
+531011.0000,531011,53,Aircraft Cargo Handling Supervisors,2,Jul-16,Analyst
+531021.0000,531021,53,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",2,Jul-15,Analyst
+531021.0100,531021,53,Recycling Coordinators,2,Jul-14,Analyst
+531031.0000,531031,53,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,2,Jul-13,Analyst
+532011.0000,532011,53,"Airline Pilots, Copilots, and Flight Engineers",4,Jul-12,Analyst
+532012.0000,532012,53,Commercial Pilots,3,Jul-15,Analyst
+532021.0000,532021,53,Air Traffic Controllers,3,Jul-14,Analyst
+532022.0000,532022,53,Airfield Operations Specialists,3,Jul-13,Analyst
+532031.0000,532031,53,Flight Attendants,3,Jul-12,Analyst
+533011.0000,533011,53,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",2,Jul-17,Analyst
+533021.0000,533021,53,"Bus Drivers, Transit and Intercity",2,Aug-18,Analyst
+533022.0000,533022,53,"Bus Drivers, School or Special Client",2,Jul-11,Analyst
+533031.0000,533031,53,Driver/Sales Workers,2,Jul-12,Analyst
+533032.0000,533032,53,Heavy and Tractor-Trailer Truck Drivers,2,Jul-14,Analyst
+533033.0000,533033,53,Light Truck or Delivery Services Drivers,2,Jul-14,Analyst
+533041.0000,533041,53,Taxi Drivers and Chauffeurs,2,Aug-18,Analyst
+534011.0000,534011,53,Locomotive Engineers,2,Jul-15,Analyst
+534012.0000,534012,53,Locomotive Firers,2,Jun-09,Analyst
+534013.0000,534013,53,"Rail Yard Engineers, Dinkey Operators, and Hostlers",2,Jun-06,Analyst
+534021.0000,534021,53,"Railroad Brake, Signal, and Switch Operators",2,Jun-07,Analyst
+534031.0000,534031,53,Railroad Conductors and Yardmasters,2,Jul-13,Analyst
+534041.0000,534041,53,Subway and Streetcar Operators,2,Dec-06,Analyst
+535011.0000,535011,53,Sailors and Marine Oilers,2,Jul-16,Analyst
+535021.0100,535021,53,Ship and Boat Captains,3,Jul-15,Analyst
+535021.0200,535021,53,"Mates- Ship, Boat, and Barge",2,Jul-15,Analyst
+535021.0300,535021,53,"Pilots, Ship",3,Jul-15,Analyst
+535022.0000,535022,53,Motorboat Operators,2,Jun-07,Analyst
+535031.0000,535031,53,Ship Engineers,3,Jul-16,Analyst
+536011.0000,536011,53,Bridge and Lock Tenders,1,Jul-05,Analyst
+536021.0000,536021,53,Parking Lot Attendants,2,Jul-15,Analyst
+536031.0000,536031,53,Automotive and Watercraft Service Attendants,2,Jul-16,Analyst
+536041.0000,536041,53,Traffic Technicians,3,Jul-16,Analyst
+536051.0100,536051,53,Aviation Inspectors,3,Jul-13,Analyst
+536051.0700,536051,53,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",2,Jul-15,Analyst
+536051.0800,536051,53,Freight and Cargo Inspectors,4,Jun-08,Analyst
+536061.0000,536061,53,"Transportation Attendants, Except Flight Attendants",2,Jul-15,Analyst
+537011.0000,537011,53,Conveyor Operators and Tenders,1,Jul-17,Analyst
+537021.0000,537021,53,Crane and Tower Operators,3,Jul-15,Analyst
+537031.0000,537031,53,Dredge Operators,2,Jun-08,Analyst
+537032.0000,537032,53,Excavating and Loading Machine and Dragline Operators,2,Jul-13,Analyst
+537033.0000,537033,53,"Loading Machine Operators, Underground Mining",2,Jun-08,Analyst
+537041.0000,537041,53,Hoist and Winch Operators,2,Dec-04,Analyst
+537051.0000,537051,53,Industrial Truck and Tractor Operators,2,Jul-13,Analyst
+537061.0000,537061,53,Cleaners of Vehicles and Equipment,2,Jul-13,Analyst
+537062.0000,537062,53,"Laborers and Freight, Stock, and Material Movers, Hand",2,Jul-13,Analyst
+537063.0000,537063,53,Machine Feeders and Offbearers,2,Jul-16,Analyst
+537064.0000,537064,53,"Packers and Packagers, Hand",2,Jul-11,Analyst
+537071.0000,537071,53,Gas Compressor and Gas Pumping Station Operators,2,Jul-17,Analyst
+537072.0000,537072,53,"Pump Operators, Except Wellhead Pumpers",2,Jun-07,Analyst
+537073.0000,537073,53,Wellhead Pumpers,2,Dec-04,Analyst
+537081.0000,537081,53,Refuse and Recyclable Material Collectors,2,Jul-12,Analyst
+537111.0000,537111,53,Mine Shuttle Car Operators,2,Dec-04,Analyst
+537121.0000,537121,53,"Tank Car, Truck, and Ship Loaders",2,Dec-06,Analyst
